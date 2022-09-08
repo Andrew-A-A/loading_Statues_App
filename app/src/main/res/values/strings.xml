@@ -7,6 +7,8 @@
     <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
     <string name="notification_description">The Project 3 repository is downloaded</string>
     <string name="notification_button">See changes</string>
+    <string name="notification_channel_id">download_channel</string>
+    <string name="notification_channel_name">Downloads</string>
 
     <string name="button_name">Click me</string>
     <string name="button_loading">We are loading </string>
@@ -17,4 +19,5 @@
     <string name="retrofit_type_safe_http_client_for_android_and_java_by_square_inc">Retrofit - Type-safe HTTP client for Android and java by Square, Inc</string>
     <string name="file_name">File Name:</string>
     <string name="statues">Statues</string>
+    <string name="check_statues">Check the statues</string>
 </resources>
